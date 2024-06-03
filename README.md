@@ -4,7 +4,9 @@ Use it only for Jiotv_go termux script.
 First Google search termux monet  
 Go toolbar update
 Download latest version -install it
+ 
  Open try first command 
+ 
 curl -fsSL https://jiotv_go.rabil.me/install.sh | bash
 
 after this type jiotv_go then you can see
